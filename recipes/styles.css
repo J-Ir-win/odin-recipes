@@ -1,0 +1,30 @@
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1{
+    font-weight: bold;
+    color: red;
+    text-align: center;
+}
+
+h2{
+    font-weight: bolder;
+    font-style: italic;
+
+}
+
+.button{
+    display: inline;
+    }
+
+button{
+    font-size:15px;
+    padding:3px;
+
+    }
+
+img{
+    display:block;
+    margin: auto;
+}
